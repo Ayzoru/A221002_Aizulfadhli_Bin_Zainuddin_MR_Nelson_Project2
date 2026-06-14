@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91895161033",
+    "project_id": "carego-661ed",
+    "storage_bucket": "carego-661ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91895161033:android:78a02c141610d360ba2d18",
+        "android_client_info": {
+          "package_name": "com.example.a221002_aizulfadhli_bin_zainuddin_mr_nelson_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSsh6ZqZRs_OZoyueof-sM6B1FOpzq_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
