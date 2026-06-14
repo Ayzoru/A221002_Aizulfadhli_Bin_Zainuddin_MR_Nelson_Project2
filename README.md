@@ -11,7 +11,7 @@ A native Android health-tracking application built with Kotlin and Jetpack Compo
 
 ---
 
-## 🚨 The Problem Statement for Project 2
+## The Problem Statement for Project 2
 
 ### 1. The Core Problem
 University students in Malaysia experience high academic pressure, resulting in irregular sleep, stress, and unmanaged physical health symptoms. While the initial iteration of CareGo addressed low-friction data logging via dynamic UI inputs, it suffered from framework-level limitations: 
