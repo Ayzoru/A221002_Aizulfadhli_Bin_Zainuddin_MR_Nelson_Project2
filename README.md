@@ -38,7 +38,7 @@ Project 2 transitions CareGo from a transient tracking utility into a resilient,
 
 ---
 
-## 🛠️ Tech Stack Matrix
+## Tech Stack Matrix
 * **Language:** Kotlin Core
 * **UI Framework:** Jetpack Compose (Declarative Component Tree Layouts)
 * **Architecture:** MVVM Pattern with Unidirectional State Flow (`MutableStateFlow`)
